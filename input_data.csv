@@ -1,0 +1,2 @@
+TRAIN_DATA_DIR,VALID_DATA_DIR,CLASSES,IMAGE_SIZE,AUGMENTATION,BATCH_SIZE,MODEL_OBJ,MODEL_NAME,EPOCHS,OPTIMIZER,LOSS_FUNC,FREEZE_ALL
+H:\Parsonal\Coding Practice\iNeuron\Moduler Coding\ImageSeeker app\ImageSeeker\data\train,H:\Parsonal\Coding Practice\iNeuron\Moduler Coding\ImageSeeker app\ImageSeeker\data\valid,2,"224,224,3",True,16,VGG16,VGG16,2,Adam,categorical_crossentropy,True
